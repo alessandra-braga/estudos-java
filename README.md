@@ -1,2 +1,2 @@
-# estudos-java
-Desenvolvendo alguns exercícios na linguagem Java
+# Estudos Java
+Desenvolvendo alguns exercícios e projetos na linguagem Java
